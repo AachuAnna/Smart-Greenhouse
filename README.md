@@ -72,7 +72,7 @@ const char* ssid = "";
 const char* password = ""; 
 
 unsigned long channelID = 3111183;            // ThingSpeak channel ID
-const char* writeAPIKey = "OD5T4LFHTSRMUWUP"; // ThingSpeak write API key
+const char* writeAPIKey = "56M44PYUELKEI77T"; // ThingSpeak read API key
 
 WiFiClient client;
 DHT dht(DHTPIN, DHTTYPE);
