@@ -175,3 +175,9 @@ void loop() {
 
   delay(1000); // Sensor updates every second
 }
+
+---
+
+## 🌐 Project Link  
+🔗 [Smart Greenhouse Monitoring and Alert System](https://github.com/user-attachments/assets/fe7166a0-367f-4470-968e-17069bac08be)
+
