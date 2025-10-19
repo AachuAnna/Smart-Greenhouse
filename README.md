@@ -175,4 +175,3 @@ void loop() {
 
   delay(1000); // Sensor updates every second
 }
-
